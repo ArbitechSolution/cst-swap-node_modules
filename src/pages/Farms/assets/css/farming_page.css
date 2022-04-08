@@ -1,0 +1,1626 @@
+﻿body {
+}
+
+/*----container set custom start===---*/
+
+/*.maininner .container {
+            width: 965px !important;
+        }*/
+.mt0set {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+@media (min-width: 768px) {
+  .maininner .container {
+    width: 1098px !important;
+  }
+}
+
+@media only screen and (max-width: 567px) {
+  #member-layout .content-wrapper {
+    max-width: 90vw !important;
+  }
+}
+
+.maindsb {
+  /*margin-top: 2rem;*/
+  /*background: #202948;*/
+  /*padding: 2rem 0 5rem 0;*/
+}
+
+.maininner {
+  /* margin: 3rem !important;*/
+  /* padding: 3rem 0 !important;*/
+  /*border-radius: 7px;*/
+  padding-top: 20px;
+  width: auto !important;
+}
+
+.bgset {
+  /*background: #1c0148;*/
+  background-image: linear-gradient(90deg, #0b1695, #bd27c5);
+}
+/*----container set custom end===---*/
+
+/*----farming page css start===---*/
+.farm_text_dtl {
+}
+
+.farm_text_dtl span {
+  color: #fff;
+  font-weight: 500;
+  font-size: 16px !important;
+}
+
+.farm_text_dtl a {
+  background: #1bc122 !important;
+  font-weight: 600 !important;
+  margin-right: 0 !important;
+  margin-left: 5px;
+}
+
+.farm_text_dtl a img {
+  height: 25px;
+}
+
+.farm_text_dtl a i {
+  font-size: 23px;
+}
+
+.eye_dflex {
+}
+
+.farming_content {
+  text-align: center;
+  color: #fff;
+  margin: 0rem 0;
+}
+
+.farming_content img {
+  margin: 0 auto;
+}
+
+.farm_content {
+}
+
+.farm_log_set {
+  position: relative;
+  right: 6px;
+}
+
+.farm_content h1 {
+  font-size: 31px;
+  margin-bottom: 12px !important;
+}
+
+.set_usdt_main {
+  position: relative;
+}
+
+.set_usdt {
+  position: absolute;
+  display: inline-flex;
+  margin-top: 43px;
+}
+
+.set_usdt img {
+  height: 37px;
+}
+
+.ltr_space {
+  padding: 0 4px;
+}
+
+.farm_content p {
+  margin-bottom: 2px !important;
+}
+
+.set_just_icon {
+}
+
+.set_just_icon img {
+  height: 32px;
+  margin: 15px auto;
+}
+
+.wyz_flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.wyz_imgprice {
+  display: flex;
+}
+
+.wyz_imgprice img {
+  height: 17px;
+  padding-right: 6px;
+}
+
+.ule_imgset {
+  display: flex;
+  justify-content: center;
+}
+.farmStyle {
+  font-weight: 100;
+}
+@media (max-width: 480px) {
+  .tableWalletAddress {
+    width: 350px;
+    overflow: auto !important;
+  }
+}
+.ule_imgset img {
+  height: 20px;
+  margin: 0;
+  padding-left: 5px;
+}
+
+.farm_serv_box {
+  color: #fff;
+  min-height: 500px;
+}
+
+.farm_serv_box .farm_coins {
+  display: flex;
+}
+
+.farm_serv_box .farm_coins img {
+  height: 40px;
+}
+
+.farm_icons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.farm_new_item {
+  justify-content: center;
+  margin: 12px 0;
+  box-shadow: 0px 3px 7px -3px #a638e8;
+  padding: 14px 12px;
+}
+
+.ule_img_height img {
+  height: 30px !important;
+  position: relative;
+  top: -6px;
+}
+
+.wyz_bottom {
+}
+
+.wyz_bottom img {
+  top: 42px;
+  left: 3px;
+}
+
+@media (max-width: 768px) {
+  .wyz_d_none {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .wyz_bottom {
+    display: none;
+  }
+}
+
+.ar_drp span {
+  font-weight: 600;
+  padding-right: 3px;
+  font-size: 20px !important;
+}
+
+.farm_ml2 {
+  margin: 10px 0 0 43px;
+}
+
+.ml_5rem {
+  margin-left: 55px;
+}
+
+.farm_ule {
+  display: flex;
+}
+
+.farm_ule span {
+  font-size: 18px !important;
+}
+
+.farm_ule span img {
+  height: 18px;
+  padding: 0 5px;
+}
+
+.farm_flex_set {
+  display: flex;
+}
+
+.farm_heading {
+}
+
+.farm_heading h2 {
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 8px !important;
+}
+
+.farm_logo_group {
+  display: flex;
+}
+
+.farm_logo_group img {
+  height: 17px;
+}
+
+.farm_capital .farm_rate span {
+  font-weight: 600;
+}
+
+.farm_capital {
+}
+
+.farm_heading .farm_logo {
+  font-size: 13px;
+  line-height: 14px;
+}
+
+.farm_heading .farm_logo span {
+  font-weight: 600;
+  padding-right: 3px;
+  font-size: 14px;
+}
+
+.farm_heading .farm_logo span b {
+  background: #a638e8;
+  padding: 0px 8px;
+  border-radius: 12px;
+  font-size: 15px;
+}
+.btn:hover {
+  background: #8b07da;
+  color: #fff;
+}
+.farm_submit_btn {
+  text-align: center;
+}
+.btn {
+  padding: 0.5rem 2rem;
+  font-weight: 300;
+  border-radius: 0.6rem;
+  display: inline-block;
+  cursor: pointer;
+  transition: 0.2s linear;
+  background: #a62aef;
+  color: #fff;
+  text-decoration: none;
+  font: 300 1.6 rem 'Mukta Vaani', sans-serif;
+  border-width: 0;
+  margin-right: 1rem;
+}
+.farm_serv_box {
+  border: 1px solid #cfcfcf;
+  border-radius: 5px;
+  padding: 21px 24px;
+  box-shadow: 0px 5px 8px -3px #a638e8;
+  margin: 2rem 0;
+}
+
+.farm_serv_box:hover {
+  border: 1px solid #cfcfcf;
+  -webkit-box-shadow: 0px 0px 20px 2px rgb(163 4 254 / 35%);
+  -moz-box-shadow: 0px 0px 20px 2px rgb(163 4 254 / 35%);
+  box-shadow: 0px 0px 20px 2px rgb(163 4 254 / 35%);
+  transition: 0.5s;
+}
+
+.total_farmed {
+  display: flex;
+  justify-content: space-between;
+  margin: 12px 0;
+  box-shadow: 0px 3px 7px -3px #a638e8;
+  padding: 14px 12px;
+}
+
+.farm_bonus {
+  margin: 12px 0;
+  box-shadow: 0px 3px 7px -3px #a638e8;
+  padding: 14px 12px;
+}
+
+.mt19 {
+  margin-top: 19px;
+}
+
+.farm_bonus .fram_name {
+  margin-top: 5px;
+}
+
+.farm_bonus .fram_name p {
+  margin-bottom: 0px !important;
+  font-size: 21px;
+  font-weight: 500;
+}
+
+.farm_bonus .fram_name h5 {
+  margin-top: 3px;
+  color: #e9ccfb;
+}
+
+.farm_bonus .fram_name p span {
+  font-size: 21px;
+}
+
+.staking_price {
+  margin-top: 18px;
+}
+
+.staking_price .farm_price {
+  font-weight: 400;
+  font-size: 17px;
+}
+
+.staking_price h2 {
+  font-size: 18px;
+  margin-bottom: 8px !important;
+}
+
+.staking_price .farm_price span {
+  font-weight: 500;
+}
+
+.farming_rewards .farm_price {
+  font-size: 15px;
+}
+
+.farm_usd_set {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.farm_select {
+  margin-top: 16px;
+}
+
+.farm_select select:focus {
+  outline: unset;
+}
+
+.farm_select select {
+  width: 55%;
+  background: #a944e5;
+  border-radius: 6px;
+  border: unset;
+  color: #fff !important;
+  padding: 4px;
+  box-shadow: 0px 2px 0px 2px rgb(173 171 171);
+}
+
+@media (max-width: 410px) {
+  .farm_select select {
+    width: 48%;
+    min-width: 150px;
+  }
+}
+
+.farm_input {
+}
+
+.farm_input input {
+  margin: 12px 0;
+  box-shadow: 0px 3px 7px -3px #a638e8;
+  padding: 6px 7px;
+  border-radius: 5px;
+  border: 1px solid #803def;
+  background: #7120b1;
+  color: #fff !important;
+}
+
+.farm_input input:focus {
+  box-shadow: unset;
+  outline: unset;
+}
+
+.farm_input input::placeholder {
+  color: #fff;
+}
+
+.farm_usd_set p {
+  margin-bottom: 5px !important;
+  margin-top: 19px;
+}
+
+.farm_submit_btn {
+  margin-top: 5px;
+}
+
+.farm_submit_btn button {
+  width: 65%;
+  margin: 0px 7px;
+  background-image: linear-gradient(#a000fe, #aa4de1) !important;
+  color: #fff !important;
+  font-size: 18px !important;
+  font-weight: 300 !important;
+}
+
+.farm_submit_btn button:focus {
+  outline: unset;
+  box-shadow: unset;
+}
+
+.farm_submit_btn button:focus {
+  outline: unset;
+}
+
+.farm_ballance {
+  display: flex;
+  color: #fff;
+  border: 1px solid #cfcfcf;
+  border-radius: 5px;
+  padding: 35px 20px;
+  box-shadow: 0px 5px 8px -3px #a638e8;
+  margin: 3rem 0;
+}
+a {
+  color: #ffffff !important;
+  text-decoration: none;
+}
+.farm_ballance:hover {
+  border: 1px solid #cfcfcf;
+  -webkit-box-shadow: 0px 0px 20px 2px rgb(163 4 254 / 35%);
+  -moz-box-shadow: 0px 0px 20px 2px rgb(163 4 254 / 35%);
+  box-shadow: 0px 0px 20px 2px rgb(163 4 254 / 35%);
+  transition: 0.5s;
+}
+
+.farm_ballance .farm_bal_img {
+  padding-left: 17px;
+}
+
+.farm_ballance .farm_bal_img img {
+  height: 60px;
+  padding-right: 18px;
+}
+
+.farm_ballance .farm_bal_digit {
+}
+
+.farm_ballance .farm_bal_digit h3 {
+  margin-bottom: 8px !important;
+  font-size: 26px;
+}
+
+.farm_ballance .farm_bal_digit p {
+  margin-bottom: 0 !important;
+}
+
+.mt40 {
+}
+
+.farm_walet {
+  position: absolute;
+  right: 0;
+  top: 11px;
+}
+
+.farm_walet button {
+}
+
+.farm_walet button {
+  background-image: linear-gradient(#a000fe, #aa4de1) !important;
+  color: #fff !important;
+  font-size: 18px !important;
+  font-weight: 300 !important;
+}
+
+.farm_walet button:focus {
+  outline: unset;
+}
+/*----farming page css end===---*/
+/*----media query start===---*/
+.farm_heading h2 {
+}
+
+@media (max-width: 768px) {
+  .mt40 {
+    margin-top: 40px;
+  }
+}
+
+@media (max-width: 380px) {
+  .farm_heading h2 {
+    font-size: 15px;
+  }
+
+  .farm_heading .farm_logo span b {
+    font-size: 11px;
+  }
+
+  .farm_heading .farm_logo span {
+    font-size: 12px;
+  }
+
+  .farm_serv_box .farm_coins img {
+    height: 35px;
+  }
+
+  .farm_logo_group img {
+    height: 12px;
+  }
+}
+
+/*----media query end===---*/
+.poly_input {
+}
+
+.poly_input input {
+  /*width:105px;*/
+}
+
+.d_flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.set_checkbox {
+}
+
+.set_checkbox input[type='radio'],
+input[type='checkbox'] {
+  margin: 0px 0 0 !important;
+}
+
+.set_checkbox input[type='checkbox'] {
+  width: 16px;
+  height: 16px;
+}
+
+.hrvst_font {
+  font-size: 21px;
+}
+/*----===connect to wallet css start====---*/
+.swapbg10 {
+  /* background: #f9f9f9; */
+  border-radius: 35px;
+  position: relative;
+  min-height: 108px;
+}
+
+.overlay10 .closebtn {
+  cursor: pointer;
+}
+
+.overlay10 .closebtn {
+  top: 20px !important;
+  font-size: 26px !important;
+  right: 24px !important;
+}
+
+.wyswap {
+}
+
+.wyswap h3 {
+  font-size: 17px;
+}
+
+.farm_popup_logo {
+}
+
+.farm_popup_logo img {
+  height: 41px;
+}
+
+.farm_popup_title {
+}
+
+.farm_popup_title a {
+  font-size: 17px !important;
+  font-weight: 500;
+}
+
+.toolbgset {
+  box-shadow: 0 3px 10px -3px rgb(28 1 72);
+  display: flex;
+  justify-content: space-between;
+  border-radius: 60px;
+  padding: 10px 15px;
+  margin-bottom: 14px;
+}
+
+.overlay10 {
+  width: 39%;
+  display: none;
+  position: absolute;
+  z-index: 1;
+  margin: 15px;
+  top: 13%;
+  left: 30%;
+  background-color: #a62aef;
+  border-radius: 35px;
+  padding: 45px;
+  /*box-shadow: 0px 0px 47px -18px rgb(255 253 255);*/
+  color: #fff;
+}
+
+.overlay10:hover {
+  border: 1px solid #0426f7;
+  -webkit-box-shadow: 0px 0px 15px 9px rgb(11 17 239 / 35%);
+  -moz-box-shadow: 0px 0px 15px 9px rgb(11 17 239 / 35%);
+  box-shadow: 0px 0px 15px 9px rgb(11 17 239 / 35%);
+  transition: 0.5s;
+}
+
+@media (max-width: 768px) {
+  .overlay10 {
+    width: 64%;
+    left: 17%;
+    border-radius: 29px;
+    padding: 29px 21px 14px 21px;
+  }
+
+  .tokenset {
+    font-weight: 600;
+    font-size: 17px;
+  }
+
+  .farm_walet button {
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    padding: 0px 7px !important;
+  }
+
+  .overlay10 .closebtn {
+    top: 14px !important;
+    right: 18px !important;
+  }
+}
+
+@media (max-width: 550px) {
+  .overlay10 {
+    width: 74%;
+    left: 10%;
+    padding: 20px 21px 4px 21px;
+    border-radius: 21px;
+  }
+
+  .farm_popup_title a {
+    font-size: 15px !important;
+    font-weight: 500;
+  }
+
+  .toolbgset {
+    padding: 7px 16px;
+  }
+
+  .trnlink span {
+    font-size: 13px;
+  }
+
+  .trnlink a {
+    font-size: 13px;
+  }
+
+  .overlay10 .closebtn {
+    top: 13px !important;
+    right: 12px !important;
+  }
+
+  .farm_content h1 {
+    font-size: 26px;
+  }
+}
+
+@media (max-width: 424px) {
+  .overlay10 {
+    width: 80%;
+    left: 6%;
+    top: 7%;
+    padding: 14px 17px 0px 17px;
+    border-radius: 20px;
+  }
+
+  .overlay10 .closebtn {
+    top: 7px !important;
+    right: 11px !important;
+  }
+}
+
+@media (max-width: 386px) {
+  .overlay10 {
+    width: 80%;
+    left: 6%;
+    top: 7%;
+    padding: 14px 17px 0px 17px;
+    border-radius: 20px;
+  }
+
+  .overlay10-content {
+    margin-top: 32px;
+  }
+
+  .overlay10 .closebtn {
+    top: 3px !important;
+    right: 6px !important;
+  }
+
+  .trnlink span {
+    font-size: 12px !important;
+  }
+
+  .trnlink a {
+    font-size: 12px !important;
+  }
+}
+
+.overlay10-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 47px;
+}
+
+.overlay10 a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 13px;
+  color: #fff;
+  display: block;
+  transition: 0.3s;
+}
+
+.overlay10 a:hover,
+.overlay10 a:focus {
+  color: #fff;
+}
+
+.overlay10 .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+  color: #000 !important;
+  font-weight: 600;
+  font-size: 31px !important;
+}
+
+.overlay10 .closebtn {
+  cursor: pointer;
+}
+
+.trnlink {
+  display: flex;
+  padding-top: 1rem;
+}
+
+.trnlink span {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.trnlink a {
+  padding: 0;
+  padding-left: 5px;
+  font-size: 15px;
+  color: #fbf52d;
+  font-weight: 700;
+  text-decoration: underline !important;
+}
+
+.tokenset {
+  font-weight: 600;
+}
+/*----===connect to wallet css end====---*/
+
+/*----===select mono wallet css start====---*/
+.swapbg11 {
+  /* background: #f9f9f9; */
+  border-radius: 35px;
+  position: relative;
+  min-height: 108px;
+}
+
+.overlay11 .closebtn {
+  cursor: pointer;
+}
+
+.overlay11 .closebtn {
+  top: 34px !important;
+  font-size: 26px !important;
+  right: 24px !important;
+}
+
+.wyswap h3 {
+  font-size: 17px;
+}
+
+.farm_popup_logo img {
+  height: 41px;
+}
+
+.farm_popup_title {
+}
+
+.farm_popup_title a {
+  font-size: 17px !important;
+  font-weight: 500;
+}
+
+.toolbgset2 {
+  box-shadow: 0 3px 10px -3px rgb(28 1 72);
+  display: flex;
+  justify-content: space-between;
+  border-radius: 60px;
+  padding: 6px 15px;
+  margin-bottom: 16px;
+}
+
+.overlay11 {
+  width: 29%;
+  display: none;
+  position: fixed;
+  z-index: 1;
+  margin: 15px;
+  top: 17%;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background-color: #a62aef;
+  border-radius: 35px;
+  padding: 45px;
+  /* box-shadow: 0px 0px 47px -18px rgb(255 253 255); */
+  color: #fff;
+}
+
+.overlay11:hover {
+  /*border: 1px solid #0426f7;*/
+  -webkit-box-shadow: 0px 0px 15px 9px rgb(11 17 239 / 35%);
+  -moz-box-shadow: 0px 0px 15px 9px rgb(11 17 239 / 35%);
+  box-shadow: 0px 0px 15px 9px rgb(11 17 239 / 35%);
+  transition: 0.5s;
+}
+
+@media (max-width: 768px) {
+  .overlay11 {
+    width: 79%;
+    border-radius: 29px;
+    padding: 29px 21px 14px 21px;
+  }
+
+  .tokenset {
+    font-weight: 600;
+    font-size: 17px;
+  }
+
+  .farm_walet button {
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    padding: 0px 7px !important;
+  }
+
+  .overlay10 .closebtn {
+    top: 14px !important;
+    right: 18px !important;
+  }
+}
+
+@media (max-width: 550px) {
+  .farm_popup_title a {
+    font-size: 15px !important;
+    font-weight: 500;
+  }
+
+  .toolbgset2 {
+    padding: 7px 16px;
+  }
+
+  .trnlink span {
+    font-size: 13px;
+  }
+
+  .trnlink a {
+    font-size: 13px;
+  }
+
+  .overlay11 .closebtn {
+    top: 13px !important;
+    right: 12px !important;
+  }
+
+  .farm_content h1 {
+    font-size: 26px;
+  }
+}
+
+@media (max-width: 386px) {
+  .overlay10-content {
+    margin-top: 32px;
+  }
+
+  .trnlink span {
+    font-size: 12px !important;
+  }
+
+  .trnlink a {
+    font-size: 12px !important;
+  }
+}
+
+.overlay11-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 47px;
+}
+
+.overlay11 a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 13px;
+  color: #fff;
+  display: block;
+  transition: 0.3s;
+}
+
+.overlay11 a:hover,
+.overlay11 a:focus {
+  color: #fff;
+}
+
+.overlay11 .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+  color: #000 !important;
+  font-weight: 600;
+  font-size: 31px !important;
+}
+
+.overlay11 .closebtn {
+  cursor: pointer;
+}
+
+.trnlink {
+  display: flex;
+  padding-top: 1rem;
+}
+
+.trnlink span {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.trnlink a {
+  padding: 0;
+  padding-left: 5px;
+  font-size: 15px;
+  color: #fbf52d;
+  font-weight: 700;
+  text-decoration: underline !important;
+}
+
+.tokenset2 {
+  font-weight: 600;
+  font-size: 19px;
+}
+/*----===select mono wallet css end====---*/
+
+/*----===select mono wallet css start====---*/
+.swapbg12 {
+  /* background: #f9f9f9; */
+  border-radius: 35px;
+  position: relative;
+  min-height: 108px;
+}
+
+.overlay12 .closebtn {
+  cursor: pointer;
+}
+
+.overlay12 .closebtn {
+  top: 34px !important;
+  font-size: 26px !important;
+  right: 24px !important;
+}
+
+.wyswap h3 {
+  font-size: 17px;
+}
+
+.farm_popup_logo img {
+  height: 41px;
+}
+
+.farm_popup_title {
+}
+
+.farm_popup_title a {
+  font-size: 17px !important;
+  font-weight: 500;
+}
+
+.toolbgset2 {
+  box-shadow: 0 3px 10px -3px rgb(28 1 72);
+  display: flex;
+  justify-content: space-between;
+  border-radius: 60px;
+  padding: 6px 15px;
+  margin-bottom: 16px;
+}
+
+.overlay12 {
+  width: 29%;
+  display: none;
+  position: fixed;
+  z-index: 1;
+  margin: 15px;
+  top: 17%;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background-color: #a62aef;
+  border-radius: 35px;
+  padding: 45px;
+  /* box-shadow: 0px 0px 47px -18px rgb(255 253 255); */
+  color: #fff;
+}
+
+.overlay12:hover {
+  /*border: 1px solid #0426f7;*/
+  -webkit-box-shadow: 0px 0px 15px 9px rgb(11 17 239 / 35%);
+  -moz-box-shadow: 0px 0px 15px 9px rgb(11 17 239 / 35%);
+  box-shadow: 0px 0px 15px 9px rgb(11 17 239 / 35%);
+  transition: 0.5s;
+}
+
+@media (max-width: 768px) {
+  .overlay12 {
+    width: 79%;
+    border-radius: 29px;
+    padding: 29px 21px 14px 21px;
+  }
+
+  .tokenset {
+    font-weight: 600;
+    font-size: 17px;
+  }
+
+  .farm_walet button {
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    padding: 0px 7px !important;
+  }
+
+  .overlay12 .closebtn {
+    top: 14px !important;
+    right: 18px !important;
+  }
+}
+
+@media (max-width: 550px) {
+  .farm_popup_title a {
+    font-size: 15px !important;
+    font-weight: 500;
+  }
+
+  .toolbgset2 {
+    padding: 7px 16px;
+  }
+
+  .trnlink span {
+    font-size: 13px;
+  }
+
+  .trnlink a {
+    font-size: 13px;
+  }
+
+  .overlay12 .closebtn {
+    top: 13px !important;
+    right: 12px !important;
+  }
+
+  .farm_content h1 {
+    font-size: 26px;
+  }
+}
+
+@media (max-width: 386px) {
+  .overlay12-content {
+    margin-top: 32px;
+  }
+
+  .trnlink span {
+    font-size: 12px !important;
+  }
+
+  .trnlink a {
+    font-size: 12px !important;
+  }
+}
+
+.overlay12-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 47px;
+}
+
+.overlay12 a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 13px;
+  color: #fff;
+  display: block;
+  transition: 0.3s;
+}
+
+.overlay11 a:hover,
+.overlay11 a:focus {
+  color: #fff;
+}
+
+.overlay12 .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+  color: #000 !important;
+  font-weight: 600;
+  font-size: 31px !important;
+}
+
+.overlay12 .closebtn {
+  cursor: pointer;
+}
+
+.trnlink {
+  display: flex;
+  padding-top: 1rem;
+}
+
+.trnlink span {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.trnlink a {
+  padding: 0;
+  padding-left: 5px;
+  font-size: 15px;
+  color: #fbf52d;
+  font-weight: 700;
+  text-decoration: underline !important;
+}
+
+.tokenset2 {
+  font-weight: 600;
+  font-size: 19px;
+}
+/*----===select mono wallet css end====---*/
+
+/*----===select mono wallet css start====---*/
+.swapbg13 {
+  /* background: #f9f9f9; */
+  border-radius: 35px;
+  position: relative;
+  min-height: 108px;
+}
+
+.overlay13 .closebtn {
+  cursor: pointer;
+}
+
+.overlay13 .closebtn {
+  top: 34px !important;
+  font-size: 26px !important;
+  right: 24px !important;
+}
+
+.wyswap h3 {
+  font-size: 17px;
+}
+
+.farm_popup_logo img {
+  height: 41px;
+}
+
+.farm_popup_title {
+}
+
+.farm_popup_title a {
+  font-size: 17px !important;
+  font-weight: 500;
+}
+
+.toolbgset2 {
+  box-shadow: 0 3px 10px -3px rgb(28 1 72);
+  display: flex;
+  justify-content: space-between;
+  border-radius: 60px;
+  padding: 6px 15px;
+  margin-bottom: 16px;
+}
+
+.overlay13 {
+  width: 29%;
+  display: none;
+  position: fixed;
+  z-index: 1;
+  margin: 15px;
+  top: 17%;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background-color: #a62aef;
+  border-radius: 35px;
+  padding: 45px;
+  /* box-shadow: 0px 0px 47px -18px rgb(255 253 255); */
+  color: #fff;
+}
+
+.overlay13:hover {
+  /*border: 1px solid #0426f7;*/
+  -webkit-box-shadow: 0px 0px 15px 9px rgb(11 17 239 / 35%);
+  -moz-box-shadow: 0px 0px 15px 9px rgb(11 17 239 / 35%);
+  box-shadow: 0px 0px 15px 9px rgb(11 17 239 / 35%);
+  transition: 0.5s;
+}
+
+@media (max-width: 768px) {
+  .overlay13 {
+    width: 79%;
+    border-radius: 29px;
+    padding: 29px 21px 14px 21px;
+  }
+
+  .tokenset {
+    font-weight: 600;
+    font-size: 17px;
+  }
+
+  .farm_walet button {
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    padding: 0px 7px !important;
+  }
+
+  .overlay13 .closebtn {
+    top: 14px !important;
+    right: 18px !important;
+  }
+}
+
+@media (max-width: 550px) {
+  .farm_popup_title a {
+    font-size: 15px !important;
+    font-weight: 500;
+  }
+
+  .toolbgset2 {
+    padding: 7px 16px;
+  }
+
+  .trnlink span {
+    font-size: 13px;
+  }
+
+  .trnlink a {
+    font-size: 13px;
+  }
+
+  .overlay13 .closebtn {
+    top: 13px !important;
+    right: 12px !important;
+  }
+
+  .farm_content h1 {
+    font-size: 26px;
+  }
+}
+
+@media (max-width: 386px) {
+  .overlay13-content {
+    margin-top: 32px;
+  }
+
+  .trnlink span {
+    font-size: 12px !important;
+  }
+
+  .trnlink a {
+    font-size: 12px !important;
+  }
+}
+
+.overlay13-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 47px;
+}
+
+.overlay13 a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 13px;
+  color: #fff;
+  display: block;
+  transition: 0.3s;
+}
+
+.overlay13 a:hover,
+.overlay13 a:focus {
+  color: #fff;
+}
+
+.overlay13 .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+  color: #000 !important;
+  font-weight: 600;
+  font-size: 31px !important;
+}
+
+.overlay13 .closebtn {
+  cursor: pointer;
+}
+
+.trnlink {
+  display: flex;
+  padding-top: 1rem;
+}
+
+.trnlink span {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.trnlink a {
+  padding: 0;
+  padding-left: 5px;
+  font-size: 15px;
+  color: #fbf52d;
+  font-weight: 700;
+  text-decoration: underline !important;
+}
+
+.tokenset2 {
+  font-weight: 600;
+  font-size: 19px;
+}
+/*----===select mono wallet css end====---*/
+
+/*----=======farm ribbon========---*/
+.farm_ribbon {
+  position: relative;
+}
+
+@media (max-width: 735px) {
+  .ribbon {
+    display: none;
+  }
+}
+
+/* common */
+.ribbon {
+  width: 180px;
+  height: 180px;
+  overflow: hidden;
+  position: absolute;
+}
+
+.ribbon::before,
+.ribbon::after {
+  position: absolute;
+  z-index: -1;
+  content: '';
+  display: block;
+  border: 5px solid #2980b9;
+}
+
+.ribbon span {
+  position: absolute;
+  display: block;
+  width: 322px;
+  padding: 12px 0;
+  background-color: #1bc122;
+  box-shadow: 0 5px 10px rgb(0 0 0 / 10%);
+  color: #fff;
+  font: 700 18px/1 'Lato', sans-serif;
+  text-shadow: 0 1px 1px rgb(0 0 0 / 20%);
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.ribbon_font {
+  font-size: 10px !important;
+}
+
+.ribbon_font img {
+  height: 31px;
+  margin: 0;
+  display: initial;
+}
+
+.ribbon_font b {
+  font-size: 17px !important;
+}
+
+/* top left*/
+.ribbon-top-left {
+  top: 0px;
+  left: -1px;
+}
+
+.ribbon-top-left::before,
+.ribbon-top-left::after {
+  border-top-color: transparent;
+  border-left-color: transparent;
+}
+
+.ribbon-top-left::before {
+  top: 0;
+  right: 0;
+}
+
+.ribbon-top-left::after {
+  bottom: 0;
+  left: 0;
+}
+
+.ribbon-top-left span {
+  right: -44px;
+  top: 31px;
+  transform: rotate(-45deg);
+}
+
+/* top right*/
+.ribbon-top-right {
+  right: 0px;
+  top: 0px;
+}
+
+.ribbon-top-right::before,
+.ribbon-top-right::after {
+  border-top-color: transparent;
+  border-right-color: transparent;
+}
+
+.ribbon-top-right::before {
+  top: 0;
+  left: 0;
+}
+
+.ribbon-top-right::after {
+  bottom: 0;
+  right: 0;
+}
+
+.ribbon-top-right span {
+  left: -38px;
+  top: 23px;
+  transform: rotate(45deg);
+}
+
+/* bottom left*/
+.ribbon-bottom-left {
+  bottom: -10px;
+  left: -10px;
+}
+
+.ribbon-bottom-left::before,
+.ribbon-bottom-left::after {
+  border-bottom-color: transparent;
+  border-left-color: transparent;
+}
+
+.ribbon-bottom-left::before {
+  bottom: 0;
+  right: 0;
+}
+
+.ribbon-bottom-left::after {
+  top: 0;
+  left: 0;
+}
+
+.ribbon-bottom-left span {
+  right: -25px;
+  bottom: 30px;
+  transform: rotate(225deg);
+}
+
+/* bottom right*/
+.ribbon-bottom-right {
+  bottom: -10px;
+  right: -10px;
+}
+
+.ribbon-bottom-right::before,
+.ribbon-bottom-right::after {
+  border-bottom-color: transparent;
+  border-right-color: transparent;
+}
+
+.ribbon-bottom-right::before {
+  bottom: 0;
+  left: 0;
+}
+
+.ribbon-bottom-right::after {
+  top: 0;
+  right: 0;
+}
+
+.ribbon-bottom-right span {
+  left: -25px;
+  bottom: 30px;
+  transform: rotate(-225deg);
+}
+
+.mob_ribbon {
+  padding: 7px 0;
+  background-color: #1bc122;
+  box-shadow: 0 5px 10px rgb(0 0 0 / 10%);
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.mob_ribbon_font {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.mob_ribbon_font img {
+  height: 31px;
+  margin: 0;
+  display: initial;
+}
+
+.mob_ribbon_font b {
+  font-size: 17px;
+}
+
+@media (min-width: 735px) {
+  .mob_ribbon {
+    display: none;
+  }
+}
+
+.mt_1rem {
+  margin-top: 11px;
+}
+
+/*------===ule image animation start======---*/
+.ule_animation {
+  background-image: url('../../assets/img/icon.png');
+  animation: animName 2s linear infinite;
+  width: 30px;
+  height: 30px;
+  background-size: 30px;
+  position: relative;
+  top: -5px;
+}
+
+@keyframes animName {
+  0% {
+    transform: rotateY(0deg);
+  }
+
+  100% {
+    transform: rotateY(360deg);
+  }
+}
+/*------===ule image animation end======---*/

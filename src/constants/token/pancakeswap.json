@@ -1,0 +1,63 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "Bitcoin",
+      "symbol": "BTCB",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
+    },
+    {
+      "name": "WIRE",
+      "symbol": "WIRE",
+      "address": "0x3b3CD14d6D2fc39A68630582c2EB8ec98C21A81e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://wireswap.io/images/coins/wire.jpeg"
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
+    },
+    {
+      "name": " Tron",
+      "symbol": "TRX",
+      "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
+    },
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "USDT Token",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "chainId": 56,
+      "decimals": 18,
+
+      "logoURI": "https://wireswap.io/images/coins/usdt.jpeg"
+    }
+  ]
+}

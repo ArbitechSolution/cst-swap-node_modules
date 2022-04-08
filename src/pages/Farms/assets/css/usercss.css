@@ -1,0 +1,254 @@
+﻿
+
+.containerset {
+    padding-top: 5px !important;
+}
+.footerset{text-align:center;
+           margin-top:70rem;
+}
+@media (min-width: 1200px) {
+    .container {
+            width: 1110px !important;
+        }
+    }
+    /*--modal-- start*/
+.modal-content {
+    background: #11151c;
+    /* height: 720px; */
+    border: 3px solid #fad67d;
+    border-radius: 10px;
+}
+.modal-header {
+    padding: 10px 13px;
+    border-bottom: 1px solid #fad67d;
+}
+.numbtn button:hover{
+background-color:green;
+}
+.modal-title {
+    margin-bottom: 0;
+    line-height: 1.5;
+    /*margin-left: 24px;*/
+    color: #fff;
+    font-size: 20px;
+}
+.net_box {
+    background: #181d26;
+    padding: 15px;
+    height: 150px;
+    border-radius: 10px;
+    border: 2px solid #fad67d !important;
+}
+    .mtset{}
+    @media(max-width:764px) {
+        .net_box {
+            margin: 27px 0;
+        }
+        .content-wrapper{
+            padding-bottom:5px !important;
+
+        }
+        .mtset {
+            margin-top: 5px !important;
+        }
+    }
+    .net_box img{margin:0 auto;}
+    .tomenname {
+        color: #fff;
+    }
+.net_box:hover {
+    border: 1px solid #06f2d9;
+    /*-webkit-box-shadow: 0px 0px 20px 2px rgb(163 4 254 / 35%);
+    -moz-box-shadow: 0px 0px 20px 2px rgb(163 4 254 / 35%);
+    box-shadow: 0px 0px 20px 2px rgb(163 4 254 / 35%);*/
+    transition: 0.5s;
+}
+    .net_box h4{
+        color:#fff;
+    }
+    @media (min-width: 768px) {
+        .modal-dialog {
+            width: auto;
+            margin: 30px auto !important;
+        }
+    }
+    /*------modal end--------*/
+    .wyzbal {
+    }
+
+    .wyzbal h4 {
+        border-bottom: 1px solid #a9a8a8;
+    }
+    .wyzbal {
+    }
+    .yzicon {
+    }
+
+    .yzicon img {
+        height: 17px;
+        padding-top: 2px;
+        padding-right: 6px;
+    }
+
+    .yzicon span {
+    }
+    .usdicon {
+        padding-right: 17px;
+    }
+    .usdicon i {
+    }
+    .usdicon span {
+        padding: 0px 3px 0 2px;
+        color: #b7b5b5;
+    }
+
+    .usdicon {
+        display: flex;
+        justify-content: space-between;
+        background: #fff;
+        margin: 11px 0px;
+        padding: 11px;
+        border: 1px solid #efefef;
+        border-radius: 10px;
+    }
+
+    .usdbal {
+    }
+
+    .yzicon2 {
+        display: flex;
+    }
+
+    .usdset {
+    }
+
+    .usdset p {
+        margin: 0px !important;
+        color: #b7b5b5;
+    }
+
+  
+    /*--add number increase--*/
+    .addNum {
+        padding: 12px 0;
+    }
+    .trxnumber{display:flex;}
+    .trxnumber input {
+        padding: 11px;
+        width: 67%;
+        border: unset;
+        border-radius: 7px;
+        color:black;
+    }
+    @media(max-width:468px){
+        .trxnumber input {
+            width: 72%;
+        }
+    }
+    @media (max-width: 468px) {
+        .trxnumber input {
+            width: 54%;
+        }
+    }
+
+    .trxnumber input:focus {
+        outline: unset;
+    }
+
+    .trxnumber span {
+        color: #fff;
+        padding: 9px 0 0 6px;
+        font-size:18px;
+        /*font-weight:600*/
+    }
+
+    .joinbtn {
+
+    }
+        .joinbtn button {
+            padding: 5px 21px;
+            background: #181d26;
+            color: #fff;
+            border-color: #fad67d;
+            border-radius: 5px;
+            margin: 4px 13px 0 0;
+            font-size: 15px;
+            /* font-weight: 600;*/
+        }
+    .joinbtn button:focus{outline:unset;}
+    @media(max-width:768px){
+        .numbtn {
+            margin: 15px 0;
+            display: flex;
+            justify-content: space-between;
+        }
+      } 
+    @media(max-width:420px){
+        .numbtn button {
+            padding: 5px 6px !important;
+        }
+    }
+    .numbtn {
+        margin: 15px 0;
+        /*display: flex;*/
+        justify-content: space-between;
+    }
+
+
+        .numbtn button {
+            border: 1px solid #fad67d;
+            background: #181d26;
+            color: #fff;
+            padding: 5px 13px;
+            /* margin: 5px; */
+            cursor: pointer;
+            border-radius: 5px;
+            font-size: 15px;
+            /*font-weight: 600;*/
+        }
+    .numbtn button:focus {
+        outline:unset;
+    }
+    /*--add number increase end--*/
+
+
+.avlbal {
+    display: flex;
+    justify-content: space-between;
+    margin: 7px 0px;
+}
+.avlbal {
+}
+    .avlbal .showbal {
+        position: relative;
+        width: 46%;
+    }
+    .avlbal .showbal input {
+        padding: 4px 8px;
+        border: unset;
+        border-radius: 5px;
+        /* background: #fff; */
+        font-size: 17px;
+        width: 100%;
+    }
+
+.avlbal .showbal input:focus{
+    outline:unset;
+}
+
+.metaset{
+    position:relative;
+    top:-12px;
+}
+.select_stake {
+    background: #909090;
+    color: white;
+    width: 67%;
+    border-radius: 5px;
+    height: 44px;
+}
+@media(max-width:469px){
+    .select_stake {
+        width: 54% ;
+    }
+}
